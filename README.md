@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <p align="center">
-  <img src="https://your-image-url.com" width="100%">
+  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="100%">
 </p>
 
 # 👋 **Hi, I'm Harsh!**  
