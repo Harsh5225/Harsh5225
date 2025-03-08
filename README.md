@@ -4,7 +4,14 @@
 </p>
 
 # 👋 **Hi, I'm Harsh!**  
-🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**
+🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**  
+
+## 🌐 **Portfolio**  
+🔗 **[Visit My Portfolio 🚀](https://harsh52portfolio.netlify.app/)**  
+
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://harsh52portfolio.netlify.app/)
+
+---
 
 ## 💡 **About Me**
 - Passionate **MERN Stack Developer**  
@@ -20,7 +27,6 @@
 🔗 **[LinkedIn](https://www.linkedin.com/in/harsh-837b5a291)**  
 
 ---
-
 
 ## 🛠 **Tech Stack**
 <p align="center">
@@ -39,8 +45,6 @@
   <img src="https://img.icons8.com/color/80/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/80/000000/mysql.png" alt="SQL"/>
 </p>
-
-
 
 ---
 
