@@ -7,7 +7,7 @@
 🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**  
 
 ## 🌐 **Portfolio**  
-🔗 **[Visit My Portfolio 🚀](https://harshportfolio52.netlify.app/)**  
+🔗 **[Visit My Portfolio 🚀](http://portfolioharsh52.netlify.app)**  
 
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://harsh52portfolio.netlify.app/)
 
