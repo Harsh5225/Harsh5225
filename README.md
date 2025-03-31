@@ -1,90 +1,78 @@
-<!-- 🌈 Animated Gradient Border -->
-<div align="center" style="border-radius:25px;padding:3px;background:linear-gradient(45deg,#FF00FF,#00FFFF,#FF00FF);background-size:200% 200%;animation:gradientBG 8s ease infinite;@keyframes gradientBG{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}">
-
-<!-- 🎨 Main Content Container -->
-<div style="border-radius:22px;background:#0d1117;padding:30px;margin:3px">
-
-<!-- 🚀 3D Floating Avatar -->
-<p align="center">
-  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="180" style="border-radius:50%;border:4px solid #00FFFF;box-shadow:0 0 30px #FF00FF;transform-style:preserve-3d;animation:float 6s ease-in-out infinite;@keyframes float{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-20px) rotate(5deg)}}">
-</p>
 
 <!-- ✨ Typewriter Effect Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Harsh!;Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Tech+Innovator" alt="Animated Title">
 </h1>
 
+<!-- Background Image -->
+<p align="center">
+  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="100%">
+</p>
+
+# 👋 **Hi, I'm Harsh!**  
+🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**  
+
+## 🌐 **Portfolio**  
+🔗 **[Visit My Portfolio 🚀](http://portfolioharsh52.netlify.app)**  
+
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://harsh52portfolio.netlify.app/)
+
+---
+
+## 💡 **About Me**
+- Passionate **MERN Stack Developer**  
+- Enthusiastic about **Data Structures & Algorithms**  
+- Love solving **complex problems** & building scalable web applications  
+
+## 🌱 **Currently Learning**
+- **Advanced DSA & Algorithms**
+- **MERN Stack Development**
+
+## 📫 **How to Reach Me**
+📩 **[Email](mailto:harshsingh94070@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/harsh-837b5a291)**  
+
+---
+
+## 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://img.icons8.com/color/80/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/80/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/80/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/80/000000/tailwind_css.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/80/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/80/000000/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/80/000000/nextjs.png" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/80/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/80/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/80/000000/mysql.png" alt="SQL"/>
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+| 📈 Stats | 🔥 Streak | 💻 Top Languages |
+|:--:|:--:|:--:|
+| ![](https://github-readme-stats.vercel.app/api?username=harsh5225&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=harsh5225&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh5225&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+
+---
+
+🔥 *"When I'm not coding, you can find me playing games or perfecting my barista skills!"* ☕🎮  
+
+---
+[![](https://visitcount.itsvg.in/api?id=harsh5225&icon=0&color=0)](https://visitcount.itsvg.in)
+  make this more beautful with animations and latest ui
 <!-- 🌟 Glowing Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" style="filter:drop-shadow(0 0 5px #00FFFF)">
 
-<!-- 🏆 3D Skill Badges -->
-<h2 align="center" style="color:#00FFFF;text-shadow:0 0 10px rgba(0,255,255,0.5)">🚀 Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,graphql,firebase,aws,git,github,vscode&perline=11" style="filter:drop-shadow(0 0 5px #FF00FF)">
-</p>
-
-<!-- 📊 Animated Stats Cards -->
-<h2 align="center" style="color:#00FFFF;text-shadow:0 0 10px rgba(0,255,255,0.5)">📊 GitHub Analytics</h2>
-
-<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(250px, 1fr));gap:20px;margin:25px 0">
-
-<!-- Stats Card with Pulse Animation -->
-<div style="background:#161b22;padding:20px;border-radius:15px;border-top:4px solid #FF00FF;animation:pulse 4s infinite;@keyframes pulse{0%,100%{box-shadow:0 0 0 rgba(255,0,255,0.5)}50%{box-shadow:0 0 20px rgba(255,0,255,0.8)}}">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh5225&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Stats" style="width:100%">
-</div>
-
-<!-- Streak Stats with Glow Effect -->
-<div style="background:#161b22;padding:20px;border-radius:15px;border-top:4px solid #00FFFF;transition:all 0.3s" onmouseover="this.style.boxShadow='0 0 20px rgba(0,255,255,0.5)'" onmouseout="this.style.boxShadow='none'">
-  <img src="https://streak-stats.demolab.com/?user=harsh5225&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" style="width:100%">
-</div>
-
-<!-- Top Languages with Floating Effect -->
-<div style="background:#161b22;padding:20px;border-radius:15px;border-top:4px solid #9400D3;animation:float 6s ease-in-out infinite">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh5225&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" style="width:100%">
-</div>
-</div>
-
-<!-- 🌐 Connect Section -->
-<h2 align="center" style="color:#00FFFF;text-shadow:0 0 10px rgba(0,255,255,0.5)">📫 Let's Connect</h2>
-
-<div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin:25px 0">
-
-<!-- Portfolio Button -->
-<a href="https://harsh52portfolio.netlify.app/" style="text-decoration:none">
-  <div style="background:linear-gradient(45deg,#FF00FF,#9400D3);padding:12px 25px;border-radius:50px;color:white;display:flex;align-items:center;gap:10px;transition:all 0.3s;box-shadow:0 5px 15px rgba(255,0,255,0.3);transform-style:preserve-3d" onmouseover="this.style.transform='translateY(-5px) rotateX(20deg)';this.style.boxShadow='0 10px 20px rgba(255,0,255,0.5)'" onmouseout="this.style.transform='translateY(0) rotateX(0deg)';this.style.boxShadow='0 5px 15px rgba(255,0,255,0.3)'">
-    <img src="https://img.icons8.com/fluency/24/000000/domain.png" width="20">
-    <span>Portfolio</span>
-  </div>
-</a>
-
-<!-- LinkedIn Button -->
-<a href="https://www.linkedin.com/in/harsh-837b5a291" style="text-decoration:none">
-  <div style="background:linear-gradient(45deg,#0077B5,#00A0DC);padding:12px 25px;border-radius:50px;color:white;display:flex;align-items:center;gap:10px;transition:all 0.3s;box-shadow:0 5px 15px rgba(0,119,181,0.3);transform-style:preserve-3d" onmouseover="this.style.transform='translateY(-5px) rotateX(20deg)';this.style.boxShadow='0 10px 20px rgba(0,119,181,0.5)'" onmouseout="this.style.transform='translateY(0) rotateX(0deg)';this.style.boxShadow='0 5px 15px rgba(0,119,181,0.3)'">
-    <img src="https://img.icons8.com/color/24/000000/linkedin.png" width="20">
-    <span>LinkedIn</span>
-  </div>
-</a>
-
-<!-- Email Button -->
-<a href="mailto:harshsingh94070@gmail.com" style="text-decoration:none">
-  <div style="background:linear-gradient(45deg,#D44638,#EA4335);padding:12px 25px;border-radius:50px;color:white;display:flex;align-items:center;gap:10px;transition:all 0.3s;box-shadow:0 5px 15px rgba(212,70,56,0.3);transform-style:preserve-3d" onmouseover="this.style.transform='translateY(-5px) rotateX(20deg)';this.style.boxShadow='0 10px 20px rgba(212,70,56,0.5)'" onmouseout="this.style.transform='translateY(0) rotateX(0deg)';this.style.boxShadow='0 5px 15px rgba(212,70,56,0.3)'">
-    <img src="https://img.icons8.com/color/24/000000/gmail.png" width="20">
-    <span>Email</span>
-  </div>
-</a>
-</div>
-
-<!-- 🎮 Fun Fact -->
-<div align="center" style="margin-top:30px;padding:20px;background:rgba(0,255,255,0.1);border-radius:15px;border-left:4px solid #FF00FF;border-right:4px solid #00FFFF">
-  <p style="font-style:italic;color:#00FFFF;text-shadow:0 0 5px rgba(0,255,255,0.5)">
-    "When I'm not coding, you can find me exploring game development or brewing the perfect cup of coffee! ☕🎮"
-  </p>
-</div>
 
 <!-- 👀 Visitor Counter -->
 <div align="center" style="margin-top:30px">
   <img src="https://komarev.com/ghpvc/?username=harsh5225&label=Profile+Views&color=FF00FF&style=flat" alt="Visitor Counter">
 </div>
 
-</div>
-</div>
+
