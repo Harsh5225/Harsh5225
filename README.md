@@ -65,7 +65,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harsh5225&icon=0&color=0)](https://visitcount.itsvg.in)
-  make this more beautful with animations and latest ui
+ 
 <!-- 🌟 Glowing Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" style="filter:drop-shadow(0 0 5px #00FFFF)">
 
