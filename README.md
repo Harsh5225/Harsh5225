@@ -1,6 +1,6 @@
 <!-- 🚀 Animated GitHub Profile -->
 <p align="center">
-  <img src="https://github.com/Harsh5225/portfolioHarsh52/blob/main/profilePortfolio.png" width="100%" alt="Harsh's Profile">
+  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="100%" alt="Harsh's Profile">
 </p>
 
 <h1 align="center">👋 Hi, I'm Harsh!</h1>
