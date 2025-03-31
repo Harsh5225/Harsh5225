@@ -6,7 +6,7 @@
 
 <!-- 🚀 3D Floating Avatar -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_PROFILE_ID" width="180" style="border-radius:50%;border:4px solid #00FFFF;box-shadow:0 0 30px #FF00FF;transform-style:preserve-3d;animation:float 6s ease-in-out infinite;@keyframes float{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-20px) rotate(5deg)}}">
+  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="180" style="border-radius:50%;border:4px solid #00FFFF;box-shadow:0 0 30px #FF00FF;transform-style:preserve-3d;animation:float 6s ease-in-out infinite;@keyframes float{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-20px) rotate(5deg)}}">
 </p>
 
 <!-- ✨ Typewriter Effect Title -->
@@ -26,7 +26,7 @@
 <!-- 📊 Animated Stats Cards -->
 <h2 align="center" style="color:#00FFFF;text-shadow:0 0 10px rgba(0,255,255,0.5)">📊 GitHub Analytics</h2>
 
-<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:20px;margin:25px 0">
+<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(250px, 1fr));gap:20px;margin:25px 0">
 
 <!-- Stats Card with Pulse Animation -->
 <div style="background:#161b22;padding:20px;border-radius:15px;border-top:4px solid #FF00FF;animation:pulse 4s infinite;@keyframes pulse{0%,100%{box-shadow:0 0 0 rgba(255,0,255,0.5)}50%{box-shadow:0 0 20px rgba(255,0,255,0.8)}}">
@@ -88,5 +88,3 @@
 
 </div>
 </div>
-
-<!-- End of Profile -->
