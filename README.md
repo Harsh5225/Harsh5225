@@ -26,6 +26,7 @@
 ## 🌱 **Currently Learning**
 - **Advanced DSA & Algorithms**
 - **MERN Stack Development**
+- **Devops**
 
 ## 📫 **How to Reach Me**
 📩 **[Email](mailto:harshsingh94070@gmail.com)**  
