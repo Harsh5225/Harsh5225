@@ -9,7 +9,7 @@
   <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="100%">
 </p>
 
-🚀 **Full Stack Developer | Problem Solver | DSA Enthusiast**  
+🚀 **Full Stack Developer || Problem Solver || DSA Enthusiast**  
 
 ## 🌐 **Portfolio**  
 🔗 **[Visit My Portfolio 🚀](http://portfolioharsh52.netlify.app)**  
