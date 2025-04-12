@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/harsh-837b5a291">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/ccp_harsh52/)">
+  <a href="https://leetcode.com/u/ccp_harsh52/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
   </a>
 </p>
