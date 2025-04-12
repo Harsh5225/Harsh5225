@@ -1,78 +1,102 @@
+Here's a refined, visually appealing GitHub profile README with better structure and design elements:
 
-<!-- ✨ Typewriter Effect Title -->
+```md
+<!-- Animated Title with Gradient -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Harsh!;Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Tech+Innovator" alt="Animated Title">
+  <a href="https://portfolioharsh52.netlify.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;Full-Stack+Alchemist;Code+Artisan;Problem+Solving+Pro;Tech+Innovator" alt="Typing Animation">
+  </a>
 </h1>
 
-<!-- Background Image -->
-<p align="center">
-  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="100%">
-</p>
-
-🚀 **Full Stack Developer || Problem Solver || DSA Enthusiast**  
-
-## 🌐 **Portfolio**  
-🔗 **[Visit My Portfolio 🚀](http://portfolioharsh52.netlify.app)**  
-
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://harsh52portfolio.netlify.app/)
-
----
-
-## 💡 **About Me**
-- Passionate **MERN Stack Developer**  
-- Enthusiastic about **Data Structures & Algorithms**  
-- Love solving **complex problems** & building scalable web applications  
-
-## 🌱 **Currently Learning**
-- **Advanced DSA & Algorithms**
-- **MERN Stack Development**
-- **Devops**
-
-## 📫 **How to Reach Me**
-📩 **[Email](mailto:harshsingh94070@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/harsh-837b5a291)**  
-
----
-
-## 🛠 **Tech Stack**
-<p align="center">
-  <img src="https://img.icons8.com/color/80/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/80/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/80/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/80/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/80/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/80/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/80/000000/tailwind_css.png" alt="TailwindCSS"/>
-  <img src="https://img.icons8.com/color/80/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/80/000000/redux.png" alt="Redux"/>
-  <img src="https://img.icons8.com/color/80/000000/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/80/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/80/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/80/000000/mysql.png" alt="SQL"/>
-</p>
-
----
-
-## 📊 **GitHub Stats**
-| 📈 Stats | 🔥 Streak | 💻 Top Languages |
-|:--:|:--:|:--:|
-| ![](https://github-readme-stats.vercel.app/api?username=harsh5225&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=harsh5225&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh5225&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-
----
-
-🔥 *"When I'm not coding, you can find me playing games or perfecting my barista skills!"* ☕🎮  
-
----
-[![](https://visitcount.itsvg.in/api?id=harsh5225&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-<!-- 🌟 Glowing Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" style="filter:drop-shadow(0 0 5px #00FFFF)">
-
-
-<!-- 👀 Visitor Counter -->
-<div align="center" style="margin-top:30px">
-  <img src="https://komarev.com/ghpvc/?username=harsh5225&label=Profile+Views&color=FF00FF&style=flat" alt="Visitor Counter">
+<!-- Profile Banner with Glow Effect -->
+<div align="center">
+  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="90%" style="border-radius: 15px; box-shadow: 0 0 25px #38BDF8;">
 </div>
 
+---
+
+<!-- About Section with Grid Layout -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh52portfolio.netlify.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/✍️_Blog-38BDF8?style=for-the-badge&logo=hashnode&logoColor=white)](#)
+
+</div>
+
+## 🔥 **About Me**
+```text
+💻 Full-Stack Developer | MERN Stack Specialist
+📚 LeetCode Problem Solver | 500+ DSA Problems
+🎯 Focus: Building Scalable Web Solutions
+🌱 Currently Mastering: DevOps & Cloud Architecture
+☕ Fueled By: Coffee & Algorithm Challenges
+```
+
+---
+
+## 🛠 **Tech Arsenal**
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts" alt="Languages">
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,html,css" alt="Frontend">
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Backend">
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" alt="Tools">
+</p>
+
+---
+
+## 📊 **Coding Metrics**
+<!-- GitHub Stats with Neumorphic Cards -->
+<div align="center">
+
+| ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh5225&show_icons=true&theme=nightowl&hide_border=true) | ![Streak Stats](https://streak-stats.demolab.com?user=harsh5225&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh5225&layout=compact&theme=nightowl&hide_border=true) |
+|:---:|:---:|:---:|
+
+</div>
+
+<!-- Activity Graph -->
+[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh5225&theme=react-dark&hide_border=true&area=true)](https://github.com/harsh5225)
+
+---
+
+## 🏆 **Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh5225&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies">
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+<p align="center">
+  <a href="mailto:harshsingh94070@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-837b5a291">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/yourprofile/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
+  </a>
+</p>
+
+---
+
+## 💭 **Developer Mantra**
+> "🔨 Building tomorrow's solutions today • ⚡ Transforming coffee into code • 🚀 Pushing boundaries in the MERN cosmos"
+
+<!-- Animated Divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- Visitor Counter with Animation -->
+<div align="center">
+  <h3>👀 Profile Visitors</h3>
+  <img src="https://profile-counter.glitch.me/harsh5225/count.svg" alt="Visitor Counter" style="margin: 8px 0 16px">
+</div>
 
