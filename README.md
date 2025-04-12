@@ -84,10 +84,9 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
   </a>
 </p>
+## 🔥 LeetCode Daily Streak
 
-## 📈 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/harsh5225?theme=unicorn&font=ubuntu)
+![LeetCode Activity](https://leetcode-stats-six.vercel.app/api?username=ccp_harsh52)
 ---
 
 ## 💭 **Developer Mantra**
