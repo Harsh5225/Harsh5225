@@ -86,8 +86,6 @@
 </p>
 
 
-![LeetCode Activity](https://leetcode-stats-six.vercel.app/api?username=ccp_harsh52)
-
 ---
 
 ## 💭 **Developer Mantra**
