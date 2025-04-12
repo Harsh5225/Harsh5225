@@ -85,6 +85,9 @@
   </a>
 </p>
 
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/harsh5225?theme=unicorn&font=ubuntu)
 ---
 
 ## 💭 **Developer Mantra**
