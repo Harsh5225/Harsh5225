@@ -1,6 +1,4 @@
-Here's a refined, visually appealing GitHub profile README with better structure and design elements:
 
-```md
 <!-- Animated Title with Gradient -->
 <h1 align="center">
   <a href="https://portfolioharsh52.netlify.app" target="_blank">
