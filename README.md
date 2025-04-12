@@ -1,7 +1,7 @@
 
 <!-- Animated Title with Gradient -->
 <h1 align="center">
-  <a href="https://portfolioharsh52.netlify.app" target="_blank">
+  <a href="[https://portfolioharsh52.netlify.app](http://portfolioharsh52.netlify.app)" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;Full-Stack+Alchemist;Code+Artisan;Problem+Solving+Pro;Tech+Innovator" alt="Typing Animation">
   </a>
 </h1>
@@ -18,8 +18,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh52portfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/✍️_Blog-38BDF8?style=for-the-badge&logo=hashnode&logoColor=white)](#)
-
 </div>
 
 ## 🔥 **About Me**
@@ -79,7 +77,7 @@
   <a href="https://www.linkedin.com/in/harsh-837b5a291">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://leetcode.com/u/yourprofile/">
+  <a href="[https://leetcode.com/u/yourprofile/](https://leetcode.com/u/ccp_harsh52/)">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
   </a>
 </p>
