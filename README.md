@@ -17,7 +17,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://harsh52portfolio.netlify.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?id=1AFdCRxDT_ojeliKzw4qZZeRkdg8_lWLW&export=download)
+
 </div>
 
 ## 🔥 **About Me**
