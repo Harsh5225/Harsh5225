@@ -21,8 +21,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](http://portfolioharsh52.netlify.app)
 
-[![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)]
-(https://drive.google.com/file/d/1Rgz-ztvp2RKqKIFRM62sIYCALI1CyZe2/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1Rgz-ztvp2RKqKIFRM62sIYCALI1CyZe2/view?usp=sharing)
 
 
 </div>
