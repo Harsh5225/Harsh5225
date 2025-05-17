@@ -19,7 +19,6 @@
 <!-- About Section with Grid Layout++-->
 <div align="center ">
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](http://portfolioharsh52.netlify.app)
 
 [![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1BS2dygqircmlxBbWa2FtJbQhOOef-RpS/view?usp=sharing)
 
