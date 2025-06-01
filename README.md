@@ -30,7 +30,6 @@
 💻 Full-Stack Developer | MERN Stack Specialist
 📚 LeetCode Problem Solver | 500+ DSA Problems
 🎯 Focus: Building Scalable Web Solutions
-🌱 Currently Mastering: DevOps & Cloud Architecture
 ☕ Fueled By: Coffee & Algorithm Challenges
 ```
 
