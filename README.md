@@ -7,9 +7,9 @@
 </h1>
 
 <!-- Profile Banner with Glow Effect -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="90%" style="border-radius: 15px; box-shadow: 0 0 25px #38BDF8;">
-</div>
+</div>-->
 
 ---
 
