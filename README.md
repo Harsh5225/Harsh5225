@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Backend">
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools">
 </p>
 
 ---
