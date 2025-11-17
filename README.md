@@ -16,14 +16,7 @@
 
 
 
-<!-- About Section with Grid Layout++-->
-<div align="center ">
 
-
-[![Resume](https://img.shields.io/badge/📄_Resume-38BDF8?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1BS2dygqircmlxBbWa2FtJbQhOOef-RpS/view?usp=sharing)
-
-
-</div>
 
 ## 🔥 **About Me**
 ```text
