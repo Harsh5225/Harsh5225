@@ -59,13 +59,6 @@
 
 ---
 
-## 🏆 **Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh5225&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies">
-</p>
-
----
-
 ## 🌐 **Connect With Me**
 <p align="center">
   <a href="mailto:harshsingh94070@gmail.com">
@@ -83,14 +76,10 @@
 ---
 
 ## 💭 **Developer Mantra**
-> "🔨 Building tomorrow's solutions today • ⚡ Transforming coffee into code • 🚀 Pushing boundaries in the MERN cosmos"
+> More practice • More learning • More growth — becoming better every day.
 
 <!-- Animated Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- Visitor Counter with Animation -->
-<div align="center">
-  <h3>👀 Profile Visitors</h3>
-  <img src="https://profile-counter.glitch.me/harsh5225/count.svg" alt="Visitor Counter" style="margin: 8px 0 16px">
-</div>
+
 
