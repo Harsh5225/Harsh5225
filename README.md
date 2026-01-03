@@ -1,29 +1,20 @@
 
 <!-- Animated Title with Gradient -->
 <h1 align="center">
-  <a href="https://portfolio-webh.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;Full-Stack+Alchemist;Code+Artisan;Problem+Solving+Pro;Tech+Innovator" alt="Typing Animation">
-  </a>
+<a href="https://portfolio-webh.netlify.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;Final-Year+Engineering+Student;Aspiring+Software+Developer;Learning+DSA+%26+Full-Stack;Building+Projects+Every+Day" alt="Typing Animation">
+</a>
+
 </h1>
-
-<!-- Profile Banner with Glow Effect -->
-<!-- <div align="center">
-  <img src="https://github.com/Harsh5225/portfoliHarsh52/blob/main/profilePortfolio.png" width="90%" style="border-radius: 15px; box-shadow: 0 0 25px #38BDF8;">
-</div>-->
-
----
-
-
-
-
 
 
 ## 🔥 **About Me**
 ```text
-💻 Full-Stack Developer | MERN Stack Specialist
-📚 LeetCode Problem Solver | 500+ DSA Problems
-🎯 Focus: Building Scalable Web Solutions
-☕ Fueled By: Coffee & Algorithm Challenges
+🎓 Final-Year Engineering Student | Aspiring Software Developer
+💻 Strong interest in Full-Stack Development (MERN)
+📚 Practicing DSA & Problem Solving (LeetCode)
+🎯 Goal: Build reliable, scalable, and clean web applications
+☕ Learning every day through projects and coding practice
 ```
 
 ---
