@@ -2,7 +2,7 @@
 <!-- Animated Title with Gradient -->
 <h1 align="center">
 <a href="https://portfolio-webh.netlify.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;Final-Year+Engineering+Student;Aspiring+Software+Developer;Learning+DSA+%26+Full-Stack;Building+Projects+Every+Day" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;Final-Year+Engineering+Student;Aspiring+Software+Developer;Learning+DSA+%26+Full-Stack;" alt="Typing Animation">
 </a>
 
 </h1>
