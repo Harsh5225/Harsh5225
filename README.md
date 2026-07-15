@@ -90,25 +90,6 @@ Secured **Rank 10 out of 100+ teams** by building **CodeBuddy**, a real-time col
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
 </p>
 
----
-
-### 🚀 Featured Projects
-
-**[CodeBuddy](https://github.com/Harsh5225) — Real-Time Collaborative Coding Platform**
-`React` `Node.js` `Socket.io` `MongoDB` `Redis` `Gemini AI`
-- Room-based collaborative editor (Monaco) with live multi-user sync via Socket.io
-- Async code execution pipeline on Judge0 API with polling-based batch handling
-- Gemini-powered AI debugging assistant for context-aware doubt resolution
-- JWT auth with Redis-backed token blacklisting for session invalidation
-- 🏆 Placed **Top 10 of 100+ teams**, Nexus Hackathon (Coder Army)
-
-**Task Manager API** — `Spring Boot` `PostgreSQL` `JWT` `Docker` `Swagger`
-- REST API on a Controller–Service–Repository architecture with RBAC
-- Rate-limited (Bucket4j) and paginated endpoints, containerized with Docker
-
-> 📌 *Pin these two repos on your GitHub profile so they show above the fold.*
-
----
 
 ### 📊 GitHub Activity
 
