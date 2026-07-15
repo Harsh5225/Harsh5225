@@ -55,6 +55,16 @@ Secured **Rank 10 out of 100+ teams** by building **CodeBuddy**, a real-time col
 
 ---
 
+### 🌱 Currently Learning & Sharing
+
+Posting daily on **LinkedIn** about what I'm learning — it's what keeps me consistent and accountable.
+
+**Current focus:** AI/ML fundamentals and System Design (HLD, caching, message queues, scalability patterns).
+
+[📌 Follow my learning-in-public journey on LinkedIn →](https://www.linkedin.com/in/harsh-837b5a291)
+
+---
+
 ### 🛠 Technical Skills
 
 **Languages**
